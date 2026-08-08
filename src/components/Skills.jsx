@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { 
   SiHtml5, SiJavascript, SiReact, SiVite, SiTypescript,
   SiNodedotjs, SiExpress, SiMongodb, SiCplusplus, SiPython,
-  SiDotnet, SiArduino, SiEspressif, SiGithub, RiSupabaseFill
+  SiDotnet, SiArduino, SiEspressif, SiGithub, SiSupabase
 } from 'react-icons/si';
 import { FaServer, FaCubes, FaBrain, FaStar, FaCss3Alt } from 'react-icons/fa6';
 import { TbBrandVscode } from 'react-icons/tb';
@@ -27,7 +27,7 @@ const SKILL_CATEGORIES = [
       { name: 'MongoDB', icon: <SiMongodb style={{ color: '#47A248' }} /> },
       { name: 'REST APIs', icon: <FaServer style={{ color: '#009688' }} /> },
       { name: 'Backend Architecture', icon: <FaCubes style={{ color: '#7952B3' }} /> },
-      { name: 'Supabase', icon: <RiSupabaseFill style={{ color: '#3ecf8e' }} /> }
+      { name: 'Supabase', icon: <SiSupabas style={{ color: '#3ecf8e' }} /> }
     ]
   },
   {
