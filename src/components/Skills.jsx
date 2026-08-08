@@ -27,7 +27,7 @@ const SKILL_CATEGORIES = [
       { name: 'MongoDB', icon: <SiMongodb style={{ color: '#47A248' }} /> },
       { name: 'REST APIs', icon: <FaServer style={{ color: '#009688' }} /> },
       { name: 'Backend Architecture', icon: <FaCubes style={{ color: '#7952B3' }} /> },
-      { name: 'Supabase', icon: <SiSupabas style={{ color: '#3ecf8e' }} /> }
+      { name: 'Supabase', icon: <SiSupabase style={{ color: '#3ecf8e' }} /> }
     ]
   },
   {
